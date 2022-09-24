@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Currency Input Text Box", "Currency Input Text Box\Currency Input Text Box.csproj", "{D2490B63-8D02-42FA-B3EE-388AA3D67B23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2490B63-8D02-42FA-B3EE-388AA3D67B23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2490B63-8D02-42FA-B3EE-388AA3D67B23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2490B63-8D02-42FA-B3EE-388AA3D67B23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2490B63-8D02-42FA-B3EE-388AA3D67B23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56141A91-58CA-4CD7-B7C4-B2D8BCC5B73C}
+	EndGlobalSection
+EndGlobal
